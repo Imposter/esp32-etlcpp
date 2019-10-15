@@ -1,1 +1,2 @@
-COMPONENT_ADD_INCLUDEDIRS := etl/include
+# Compat
+COMPONENT_ADD_INCLUDEDIRS := etl/include include
